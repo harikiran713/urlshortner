@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/mongoose": "^5.11.96",
     "daisyui": "^5.0.35",
+    "mongoose": "^8.14.2",
     "next": "15.3.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "shortid": "^2.2.17"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.6",
